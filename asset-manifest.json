@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/git-deploy-test/static/css/main.be2eb2d2.css",
+    "main.js": "/git-deploy-test/static/js/main.5d8a979f.js",
+    "index.html": "/git-deploy-test/index.html",
+    "main.be2eb2d2.css.map": "/git-deploy-test/static/css/main.be2eb2d2.css.map",
+    "main.5d8a979f.js.map": "/git-deploy-test/static/js/main.5d8a979f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be2eb2d2.css",
+    "static/js/main.5d8a979f.js"
+  ]
+}
